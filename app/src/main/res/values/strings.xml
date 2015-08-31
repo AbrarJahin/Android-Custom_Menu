@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Custom Menu</string>
+
+    <string name="message">Check the menu items!!</string>
+    <string name="action_settings">Settings</string>
+</resources>
