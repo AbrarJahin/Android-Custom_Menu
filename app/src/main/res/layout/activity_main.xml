@@ -8,11 +8,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Click Menu button or menu option in top bar to see Option Menu"
+        android:text="Click Menu button or menu option in top bar to see Option Menu. And long click on the button for a context menu !!!"
         android:layout_centerVertical="true"
         android:gravity="center"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/textView" />
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:id="@+id/btn_click"
